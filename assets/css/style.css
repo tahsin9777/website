@@ -1,0 +1,16 @@
+.{
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+
+}
+body{
+	margin: 100px 226px;
+	background-color: pink;
+}
+.box img {
+	width: 300px;
+	transform: translate(-296px,107px);
+	display: none;
+	
+}
